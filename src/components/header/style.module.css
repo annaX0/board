@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    height: 76px;
+    background-color: #0f0f0f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    padding: 0 18px;
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+
+}
+.logo{
+    color: white;
+    font-size: 32px;
+}
+.logo span{
+    color: rgb(170, 99, 252);
+    padding-left: 4px;
+}
+
+.link{
+    background-color: #f1f1f1;
+    color: #0f0f0f;
+    padding: 4px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+}
